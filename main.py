@@ -7,8 +7,6 @@ class Converter:
 
     def convert_json_to_md(self):
 
-        result = []
-
         with open(self.file) as file:
             file = json.load(file)
             print(file)
