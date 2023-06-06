@@ -1,0 +1,76 @@
+{
+    "documents": [
+        {
+            "file": "Path 1",
+            "entries": [
+                {
+                    "sort": "highlight",
+                    "text": "Text 1",
+                    "drawer": "lighten",
+                    "page": 28,
+                    "chapter": "Chapter 1",
+                    "time": 1684958734
+                },
+                {
+                    "sort": "highlight",
+                    "text": "Text 2",
+                    "drawer": "lighten",
+                    "page": 34,
+                    "chapter": "Chapter 2",
+                    "time": 1684959022
+                },
+                {
+                    "sort": "highlight",
+                    "text": "Text 3",
+                    "drawer": "lighten",
+                    "page": 52,
+                    "chapter": "Chapter 3",
+                    "time": 1684959789
+                },
+                {
+                    "sort": "highlight",
+                    "text": "Text 4",
+                    "drawer": "lighten",
+                    "page": 53,
+                    "chapter": "Chapter 3",
+                    "time": 1684959837
+                },
+                {
+                    "sort": "highlight",
+                    "text": "Text 5",
+                    "drawer": "lighten",
+                    "page": 82,
+                    "chapter": "Chapter 4",
+                    "time": 1684960515
+                }
+            ],
+            "title": "Title 1",
+            "author": "Author ABC"
+        },
+        {
+            "file": "Path 2",
+            "entries": [
+                {
+                    "sort": "highlight",
+                    "text": "Text 11",
+                    "drawer": "lighten",
+                    "page": 4,
+                    "chapter": "Chapter 1",
+                    "time": 1684948695
+                },
+                {
+                    "sort": "highlight",
+                    "text": "Text 12",
+                    "drawer": "lighten",
+                    "page": 6,
+                    "chapter": "Chapter 1",
+                    "time": 1684952940
+                }
+            ],
+            "title": "Title 2",
+            "author": "Author XYZ"
+        }
+    ],
+    "created_on": 1685035960,
+    "version": "json/1.0.0"
+}
