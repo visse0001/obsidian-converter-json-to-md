@@ -23,7 +23,7 @@ class Converter:
                     # Loop entries
                     for entry in book['entries']:
                         markdown_file.write(f'## {entry["chapter"]} \n')
-                        markdown_file.write(f'>[!quote] \n')
+                        markdown_file.write('>[!quote] (Enter) >\n')
                         markdown_file.write(f'> {entry["text"]} \n')
 
 
